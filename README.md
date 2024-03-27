@@ -1,4 +1,3 @@
-cat > readme.md << EOF
 # Product Management CRUD Website
 
 This is a project for managing products with CRUD (Create, Read, Update, Delete) operations, built using Rust, Docker, AWS, PostgreSQL, and React.
